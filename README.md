@@ -1,6 +1,11 @@
 # blender_python
 Sample scripts to run Blender in Python.
 
+## wall_crasher.py
+Falling sphere crashes the walls.
+
+[sample](https://www.youtube.com/watch?v=s319eQslYHk "sample")
+
 ## sphere_drop.py
 Falling sphere breaks the blocks.
 
